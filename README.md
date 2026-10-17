@@ -17,3 +17,6 @@ This is a static website package for GitHub Pages. No build step or framework is
 - Tagline: **Technology × Food × Life**
 
 The Foodican flagship card links to https://foodican.com/ and includes a secondary YouTube link.
+
+
+The footer copyright year updates automatically using the visitor’s browser year, so you do not need to change it manually each January.
