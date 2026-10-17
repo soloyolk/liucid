@@ -1,0 +1,51 @@
+LIUCID — BRAND SYSTEM
+Version 1.0 · 2026
+
+BRAND IDEA
+LIUCID is the holding company behind modern consumer ventures at the intersection of
+technology, food, culture and everyday life.
+
+CORE MARK
+The LIU monogram combines a geometric L/E-like frame with 刘 (Liu), making the founder
+heritage part of the symbol rather than a separate decorative element.
+
+PRIMARY COLORS
+Obsidian       #0A0A09   RGB 10,10,9
+Warm Ivory     #F6F5F1   RGB 246,245,241
+Signal Gold    #D9AA45   RGB 217,170,69
+White          #FFFFFF   RGB 255,255,255
+Muted Gold     #B8892E   RGB 184,137,46
+
+TYPOGRAPHY
+Primary wordmark: use the supplied LIUCID wordmark artwork.
+For supporting text, use a clean modern sans-serif such as Inter, Helvetica Neue,
+Arial, or a comparable grotesk. Use generous tracking for uppercase labels.
+
+LOCKUPS
+1. Primary: LIU monogram + LIUCID wordmark + TECHNOLOGY × FOOD × LIFE.
+2. Horizontal: monogram at left, LIUCID wordmark at right.
+3. Icon-only: monogram for favicon, social avatar, app icon and small-format use.
+4. Wordmark-only: use when the audience already knows the LIUCID identity.
+
+USAGE
+• Maintain clear space around the mark equal to at least 1/4 of the monogram height.
+• Prefer gold-on-obsidian for premium/corporate applications.
+• Use gold-on-warm-ivory for editorial, print and light-background applications.
+• Use white-on-obsidian where gold reproduction is unavailable.
+• Keep the 刘 character integrated with the monogram; do not separate or redraw it.
+• Do not add shadows, gradients, outlines, or extra technology/circuit imagery.
+
+BRAND PERSONALITY
+Premium · modern · curious · entrepreneurial · culturally grounded · optimistic
+
+ARCHITECTURE
+LIUCID = parent / holding company
+FOODICAN = flagship consumer food/media brand
+Future ventures = individual brands that can stand independently while benefiting from
+LIUCID's audience, technology, capital and operating platform.
+
+RECOMMENDED TAGLINE
+TECHNOLOGY × FOOD × LIFE
+
+CONTACT
+hello@liucid.com
