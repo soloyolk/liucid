@@ -144,7 +144,10 @@ footer{padding:30px 5vw;display:flex;justify-content:space-between;border-top:1p
 </main>
 
 <footer>
-  <span>© <span id="copyright-year">2026</span> LIUCID</span><span>Technology × Food × Life</span>
+  <span>© <span id="copyright-year"></span> LIUCID</span><span>Technology × Food × Life</span>
+<script>
+  document.getElementById("copyright-year").textContent = new Date().getFullYear();
+</script>  
 </footer>
 <script>document.getElementById("copyright-year").textContent = new Date().getFullYear();</script>
 </body>
